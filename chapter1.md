@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: 'Python Kullanımını Deniyoruz'
 description: 'Chapter description goes here.'
 ---
 
