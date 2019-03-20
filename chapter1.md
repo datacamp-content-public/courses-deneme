@@ -11,7 +11,7 @@ key: f6683e8306
 xp: 100
 ```
 
-Bu bir python kodlama denemesidir	
+Bu bir python kodlama denemesidir
 
 `@instructions`
 
@@ -57,7 +57,7 @@ key: 14e053b1d9
 xp: 100
 ```
 
-deneme2 	
+deneme2
 
 `@instructions`
 
