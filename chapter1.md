@@ -1,6 +1,7 @@
 ---
 title: 'Python Kullanımını Deniyoruz'
 description: 'Chapter description goes here.'
+free_preview: true
 ---
 
 ## Deneme
